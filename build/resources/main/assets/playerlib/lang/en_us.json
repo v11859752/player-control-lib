@@ -1,0 +1,5 @@
+{
+    "modmenu.nameTranslation.playerlib": "Player Control Library",
+    "modmenu.summaryTranslation.playerlib": "Library for keyboard, mouse and camera control",
+    "modmenu.descriptionTranslation.playerlib": "A lightweight library that provides convenient control over the player: keyboard emulation, mouse control, camera rotation and player data tracking for other mods."
+}
